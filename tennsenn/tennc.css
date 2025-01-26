@@ -1,0 +1,16 @@
+.ty {
+    margin-top:0px;
+    display:flex;
+    justify-content: center;
+    font-size:100px;
+}
+h2 {
+    margin-top:50px;
+    text-decoration:underline;
+}
+body {
+    background-color: #eeffff;
+}
+.honnbunn {
+    float:right;
+}
